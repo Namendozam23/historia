@@ -10,6 +10,7 @@ body{
 
 header {
     background-color: #333;
+
     color: white;
     text-align: center;
     padding: 10px 0;
@@ -53,11 +54,12 @@ main {
 .image-section {
     text-align: center;
     margin-top: 50px;
+    width: auto;
 
 }
 
 .image-section img {
-    max-width: 50%;
+    max-width: 1000px;
     height: auto;
-    border-radius: 50%;
+    border-radius: 200px;
 }
